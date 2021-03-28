@@ -1,0 +1,5 @@
+# requirements to update Composer version composer-1.14.2-airflow-1.10.14
+# https://cloud.google.com/composer/docs/concepts/versioning/composer-versions
+apache-airflow-backport-providers-mysql==2021.2.5
+apache-airflow-backport-providers-postgres==2020.10.29
+apache-airflow-backport-providers-docker==2021.2.5
