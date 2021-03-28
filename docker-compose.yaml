@@ -1,5 +1,4 @@
 # Basic Airflow cluster configuration with LocalExecutor using Redis and PostgreSQL.
-#
 ---
 version: '3'
 x-airflow-common:

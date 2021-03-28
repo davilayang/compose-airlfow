@@ -1,4 +1,4 @@
-# Airflow with Docker Compose
+# Tooling: Airflow with Docker Compose
 
 > apache-airflow version 1.10.14
 
@@ -34,7 +34,7 @@ docker-compose up airflow-init
 
 ```bash
 docker-compose up
-docker-compose up -d # run in daemon mode
+docker-compose up -d # run in detached mode
 ```
 
 Visit the airflow webserver at http://localhost:8080/
